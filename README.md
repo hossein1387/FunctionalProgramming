@@ -13,7 +13,7 @@ All Solutions licensed under MIT License. See LICENSE.txt for further details.
 
 Copyright (c) 2016 [hossein1387](http://hossein1387.github.io/).
 
-## Other Notable Open Source ml-class Sources
+## Useful repos:
 
 https://github.com/lampepfl/progfun-wiki/blob/gh-pages/CheatSheet.md
 
