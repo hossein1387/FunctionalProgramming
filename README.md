@@ -1,6 +1,6 @@
 # What is this?
 
-This repo contains my solution of assignment for [Functional Programming Principles in Scala] (https://www.coursera.org/learn/progfun1)
+This repo contains my solutions for [Functional Programming Principles in Scala] (https://www.coursera.org/learn/progfun1) assignments.
 Please DO NOT use any of my soloutions in this repo before the due date and NEVER submit any code in this repo as your own soloution. 
 
 
